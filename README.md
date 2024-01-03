@@ -1,4 +1,23 @@
 ### Hi there 👋
+#### About Me:
+Making things has always been my chief obsession. I got my BA in Social and Political Science from Cambridge University in 2018, and an MSc in Digital Fintech at the National University of Singapore in 2023. Largely self-taught, I started my journey building websites with PHP, HTML, CSS, and Laravel 10 years ago, and gradually traded my tools for Typescript/React/Express. Extremely inspired by the likes of LeiJun (CEO, Xiaomi) and Paul Graham. I am currently building a team - if you're a designer, engineer, or someone with product ideas, do reach out.
+
+- 🔭 I’m currently working on:
+  - [Streamstrack](https://www.streamstrack.xyz): an investment tracking webapp, in production.
+  - [Powercards](https://powercards.xyz/): a flashcard app for students, in production.
+- 🌱 I’m currently learning ...
+  - Web security
+  - Go
+- 👯 I’m looking to collaborate on ...
+  - Voice-based personal assistance projects! Or AI summarization projects.
+- 💬 Ask me about ...
+  - React, Typescript, my journey into being a self-taught full-stack developer, my thoughts on crypto lmao.
+- 📫 How to reach me: ...
+  - leibingguo[at]gmail[dot]com
+  - [LinkedIn](https://www.linkedin.com/in/leibing-guo/)
+- ⚡ Fun fact:
+  - I write at musingsondefi.xyz
+
 
 <!--
 **xiaogit00/xiaogit00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
